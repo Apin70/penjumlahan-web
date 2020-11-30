@@ -1,3 +1,4 @@
+alert ("selamat datang")
 function cobainput(){
     var a=document.forms['masukaninput']['input1'].value;
     var b=document.forms['masukaninput']['input1'].value;
