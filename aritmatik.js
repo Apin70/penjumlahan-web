@@ -1,7 +1,7 @@
 alert ("selamat datang")
 function cobainput(){
     var a=document.forms['masukaninput']['input1'].value;
-    var b=document.forms['masukaninput']['input1'].value;
+    var b=document.forms['masukaninput']['input2'].value;
 
     a=Number(a)
     b=Number(b)
@@ -15,5 +15,5 @@ function cobainput(){
     kol1.innerHTML = total;
 
     // document.body.style.backgroundImage="none"
-    document.body.style.backgroundColor="lightgreen"
+    document.body.style.backgroundColor="green"
 }
