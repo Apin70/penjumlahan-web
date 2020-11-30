@@ -1,4 +1,4 @@
-alert ("selamat datang")
+alert ("selamat datang di tugas ")
 function cobainput(){
     var a=document.forms['masukaninput']['input1'].value;
     var b=document.forms['masukaninput']['input2'].value;
